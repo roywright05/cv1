@@ -1,0 +1,23 @@
+.hide{
+  visibility: hidden;
+}
+
+body{
+  background-color: #4592af;
+  color: #facf5a;
+}
+
+.playing{
+  value: ▶;
+}
+
+.profile-img{
+
+  float: right;
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
+
+.play{background-color: green;}
+.paused{background-color: red;}
